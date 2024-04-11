@@ -1,5 +1,5 @@
 package main
 
 func SayHello() string {
-	return "hello"
+	return "hello World"
 }
